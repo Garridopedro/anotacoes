@@ -16,5 +16,5 @@ class Anotacoes {
     }
 }    
 
-const anotacoes = new Anotacoes(1, '1234');
-console.log(anotacoes);
+// const anotacoes = new Anotacoes('oi', '1234');
+// console.log(anotacoes);
